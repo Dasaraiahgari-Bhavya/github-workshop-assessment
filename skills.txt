@@ -3,3 +3,4 @@ Skills:
 2. Python
 3. Basics of Git and GitHub
 4. Basics of Assembly Language
+5. Problem Solving
